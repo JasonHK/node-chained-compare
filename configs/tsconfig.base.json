@@ -1,0 +1,7 @@
+{
+    "extends": "@jasonhk/typescript-config",
+    "compilerOptions": {
+        "module": "CommonJS",
+        "baseUrl": "../"
+    },
+}

@@ -1,0 +1,29 @@
+{
+  "name": "@jasonhk/chained-comparison",
+  "version": "0.0.1",
+  "description": "A utility library provides chained-comparison support.",
+  "keywords": [
+    "chained-comparison"
+  ],
+  "homepage": "https://github.com/JasonHK/node-chained-comparison#readme",
+  "bugs": {
+    "url": "https://github.com/JasonHK/node-chained-comparison/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JasonHK/node-chained-comparison.git"
+  },
+  "license": "MIT",
+  "author": "Jason Kwok <github@jasonhk.email> (https://jasonhk.net/)",
+  "main": "index.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "devDependencies": {
+    "@jasonhk/typescript-config": "^1.0.1",
+    "typescript": "^4.0.2"
+  }
+}
